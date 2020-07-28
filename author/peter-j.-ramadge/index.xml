@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter J. Ramadge | Sulin Liu</title>
+    <link>https://liusulin.github.io/author/peter-j.-ramadge/</link>
+      <atom:link href="https://liusulin.github.io/author/peter-j.-ramadge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter J. Ramadge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liusulin.github.io/img/gc.jpg</url>
+      <title>Peter J. Ramadge</title>
+      <link>https://liusulin.github.io/author/peter-j.-ramadge/</link>
+    </image>
+    
+    <item>
+      <title>Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters</title>
+      <link>https://liusulin.github.io/publication/paper/ahgp2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/ahgp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Landscape of Matrix Factorization</title>
+      <link>https://liusulin.github.io/publication/paper/rmf2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/rmf2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributed learning | Sulin Liu</title>
+    <link>https://liusulin.github.io/tag/distributed-learning/</link>
+      <atom:link href="https://liusulin.github.io/tag/distributed-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>distributed learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liusulin.github.io/img/gc.jpg</url>
+      <title>distributed learning</title>
+      <link>https://liusulin.github.io/tag/distributed-learning/</link>
+    </image>
+    
+    <item>
+      <title>Communication-Efficient Distributed Primal-Dual Algorithm for Saddle Point Problems</title>
+      <link>https://liusulin.github.io/publication/paper/dispa2017/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/dispa2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

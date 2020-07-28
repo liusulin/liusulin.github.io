@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Sulin Liu</title>
+    <link>https://liusulin.github.io/publication-type/1/</link>
+      <atom:link href="https://liusulin.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liusulin.github.io/img/gc.jpg</url>
+      <title>1</title>
+      <link>https://liusulin.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting the Landscape of Matrix Factorization</title>
+      <link>https://liusulin.github.io/publication/paper/rmf2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/rmf2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data poisoning attacks on multi-task relationship learning</title>
+      <link>https://liusulin.github.io/publication/paper/poison_mtrl_2018/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/poison_mtrl_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Group Sparse Multi-task Learning via Trace Lasso</title>
+      <link>https://liusulin.github.io/publication/paper/gamtl2017/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/gamtl2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communication-Efficient Distributed Primal-Dual Algorithm for Saddle Point Problems</title>
+      <link>https://liusulin.github.io/publication/paper/dispa2017/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/dispa2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Multi-Task Relationship Learning</title>
+      <link>https://liusulin.github.io/publication/paper/dmtrl2017/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/dmtrl2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

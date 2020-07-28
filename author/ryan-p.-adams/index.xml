@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan P. Adams | Sulin Liu</title>
+    <link>https://liusulin.github.io/author/ryan-p.-adams/</link>
+      <atom:link href="https://liusulin.github.io/author/ryan-p.-adams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan P. Adams</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liusulin.github.io/img/gc.jpg</url>
+      <title>Ryan P. Adams</title>
+      <link>https://liusulin.github.io/author/ryan-p.-adams/</link>
+    </image>
+    
+    <item>
+      <title>Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters</title>
+      <link>https://liusulin.github.io/publication/paper/ahgp2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/ahgp2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
