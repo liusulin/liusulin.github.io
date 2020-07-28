@@ -1,22 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sulin Liu* | Sulin Liu</title>
+    <title>Sulin Liu</title>
     <link>https://liusulin.github.io/author/sulin-liu/</link>
       <atom:link href="https://liusulin.github.io/author/sulin-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sulin Liu*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <description>Sulin Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://liusulin.github.io/img/gc.jpg</url>
-      <title>Sulin Liu*</title>
+      <title>Sulin Liu</title>
       <link>https://liusulin.github.io/author/sulin-liu/</link>
     </image>
     
     <item>
-      <title>Communication-Efficient Distributed Primal-Dual Algorithm for Saddle Point Problems</title>
-      <link>https://liusulin.github.io/publication/paper/dispa2017/</link>
+      <title>Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters</title>
+      <link>https://liusulin.github.io/publication/paper/ahgp2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/ahgp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Landscape of Matrix Factorization</title>
+      <link>https://liusulin.github.io/publication/paper/rmf2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/rmf2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data poisoning attacks on multi-task relationship learning</title>
+      <link>https://liusulin.github.io/publication/paper/poison_mtrl_2018/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/poison_mtrl_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Group Sparse Multi-task Learning via Trace Lasso</title>
+      <link>https://liusulin.github.io/publication/paper/gamtl2017/</link>
       <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://liusulin.github.io/publication/paper/dispa2017/</guid>
+      <guid>https://liusulin.github.io/publication/paper/gamtl2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Multi-Task Relationship Learning</title>
+      <link>https://liusulin.github.io/publication/paper/dmtrl2017/</link>
+      <pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/dmtrl2017/</guid>
       <description></description>
     </item>
     
