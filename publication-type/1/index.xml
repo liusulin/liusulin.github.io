@@ -5,12 +5,20 @@
     <link>https://liusulin.github.io/publication-type/1/</link>
       <atom:link href="https://liusulin.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://liusulin.github.io/img/gc.jpg</url>
       <title>1</title>
       <link>https://liusulin.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters</title>
+      <link>https://liusulin.github.io/publication/paper/ahgp2020/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://liusulin.github.io/publication/paper/ahgp2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Revisiting the Landscape of Matrix Factorization</title>
