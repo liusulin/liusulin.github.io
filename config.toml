@@ -41,7 +41,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 
 [params]
-    description = "Peronal website of Your Name"
+    description = "Peronal website of Sulin Liu"
     homeText = "You just need a Hugo blog from scratch"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
     blogDirName = "posts"
