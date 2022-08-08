@@ -3,10 +3,11 @@ title: Publications
 type : 
 ---
 
+<span style="font-size:2em;"> Publications </span>
 
 **Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900)
 
-*Sulin Liu*, Qing Feng, David Eriksson, Benjamin Letham, Eytan Bakshy. *Under submission*, 2022. 
+*Sulin Liu**, Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy. *Under submission*, 2022. 
 
 **ProBF : Probabilistic Safety Certificates with Barrier Functions**. [Paper](https://arxiv.org/abs/2112.12210) | [Code](https://github.com/athindran/ProBF)
 
