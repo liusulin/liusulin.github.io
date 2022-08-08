@@ -6,6 +6,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
 enableGitInfo = true
+googleAnalytics = "UA-173624094-1"
 
 [permalinks]
 cn = "/cn/:year/:month/:day/:slug/"
