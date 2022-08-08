@@ -4,13 +4,14 @@ title: Home
 
 {{<figure src="media/sulin_avatar.jpg" width="450">}}
 
-## Hi! I'm Sulin. <a href="https://github.com/liusulin" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg" width="25" height="25"></a> <a href="https://twitter.com/su_lin_liu" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" width="25" height="25"></a>  <a href="https://www.linkedin.com/in/sulin-liu" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" width="25" height="25"></a>  <a href="https://scholar.google.com/citations?user=s3NlgA4AAAAJ&hl=en" style="border:none; position:relative; left: -5px; top:5px;" target="_blank"> <img src="media/icons/google-scholar.svg" width="30" height="30"></a>  <a href="mailto:sulinl@princeton.com" style="border:none; position:relative; left: -8px;top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" width="25" height="25"></a>
+<span style="font-size:2.5em;"> Hi! I'm Sulin. </span>
+<a href="https://github.com/liusulin" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg" width="25" height="25"></a> <a href="https://twitter.com/su_lin_liu" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" width="25" height="25"></a>  <a href="https://www.linkedin.com/in/sulin-liu" style="border:none; position:relative; top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" width="25" height="25"></a>  <a href="https://scholar.google.com/citations?user=s3NlgA4AAAAJ&hl=en" style="border:none; position:relative; left: -5px; top:5px;" target="_blank"> <img src="media/icons/google-scholar.svg" width="30" height="30"></a>  <a href="mailto:sulinl@princeton.com" style="border:none; position:relative; left: -8px;top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" width="25" height="25"></a>
 
 I am a PhD student at Princeton University working on machine learning, advised by [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) and [Peter J. Ramadge](https://ee.princeton.edu/people/peter-j-ramadge/). My current research focuses on improving probabilistic inference using deep learning and developing methods for modeling uncertainty in science and engineering. 
 
 Previously, I worked with [Sinno Jialin Pan](https://www.ntu.edu.sg/home/sinnopan/index.html) on distrbuted (federated) multi-task learning at Nanyang Technological University in Singapore. Before that, I received a bachelor's degree in Electrical Engineering from National University of Singapore.
 
-## Featured Publications
+<span style="font-size:2em;"> Featured Publications </span>
 
 **Sparse Bayesian Optimization**. *Sulin Liu*, Qing Feng, David Eriksson, Benjamin Letham, Eytan Bakshy. *Under submission*, 2022. [Paper](https://arxiv.org/abs/2203.01900)
 
