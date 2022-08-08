@@ -124,11 +124,6 @@ div.splitbox div.right {
   text-align: right;
 }
 
-#nav-links .active {
-  color:            #F8F8F8;
-  background-color: #4f81bd;
-}
-
 .nav-logo {
   float: left;
   margin-top: -3px;

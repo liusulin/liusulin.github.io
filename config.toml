@@ -2,9 +2,10 @@ baseURL = "https://sulin-liu.github.io/"
 languageCode = "en-us"
 title = "Sulin Liu's Personal Website"
 theme = "hugo-ht"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
-# enableGitInfo = true
+enableGitInfo = true
 
 [permalinks]
 cn = "/cn/:year/:month/:day/:slug/"
@@ -72,11 +73,6 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "/media/princeton_logo_large.png" # you can change it
   width = 116.0
   height = 136.0
-
-[[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/liusulin"
 
 
 [params.lang]
