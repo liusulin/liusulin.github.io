@@ -57,7 +57,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/princeton_logo.png"
+    favicon = "/media/princeton_logo.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/sulin-liu/sulin-liu.github.io/edit/master/content/"
     copyright = "&copy;"
@@ -69,9 +69,9 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "media/sulin_avatar_square.jpeg" # you can change it
-  width = 50.0
-  height = 50.0
+  url = "/media/princeton_logo_large.png" # you can change it
+  width = 116.0
+  height = 136.0
 
 [[params.social]]
 name = "Github"

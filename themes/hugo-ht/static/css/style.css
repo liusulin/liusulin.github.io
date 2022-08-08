@@ -124,21 +124,22 @@ div.splitbox div.right {
   text-align: right;
 }
 
-.nav-logo {
-  float: left;
-  margin-top: -11px;
-  transition: transform 150ms ease-out;
+#nav-links .active {
+  color:            #F8F8F8;
+  background-color: #4f81bd;
 }
 
-.nav-logo:hover {
-  transform: scale(1.1);
+.nav-logo {
+  float: left;
+  margin-top: -3px;
+  margin-right: -5px;
 }
 
 .nav-logo img {
   display: block;
-  height: 50px;
-  width: 50px;
-  border-radius: 10%;
+  height: 35px;
+  width: 30px;
+  border-radius: 0%;
 }
 
 .nav-links {
