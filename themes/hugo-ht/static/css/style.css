@@ -136,15 +136,15 @@ div.splitbox div.right {
 
 .nav-logo img {
   display: block;
-  max-height: 40px;
-  width: auto;
-  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  border-radius: 10%;
 }
 
 .nav-links {
   margin: 0;
   padding: 0;
-  font-size: 14px;
+  font-size: 20px;
   list-style: none;
 }
 
@@ -154,7 +154,9 @@ div.splitbox div.right {
 }
 
 .nav-links li:first-child {
-  margin-left: 0;
+  font-size: 25px;
+  margin-right: 0;
+  float: left;
 }
 
 .nav-links a {
@@ -352,7 +354,7 @@ h1 {
 h2 {
   font-size: 28px;
   font-weight: normal;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
