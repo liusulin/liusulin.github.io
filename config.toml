@@ -1,4 +1,4 @@
-baseURL = "https://sulin-liu.github.io/"
+baseURL = "https://liusulin.github.io/"
 languageCode = "en-us"
 title = "Sulin Liu's Personal Website"
 theme = "hugo-ht"
@@ -60,13 +60,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "/media/princeton_logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/sulin-liu/sulin-liu.github.io/edit/master/content/"
+    GithubEdit = "https://github.com/liusulin/liusulin.github.io/edit/master/content/"
     copyright = "&copy;"
     copyrightYear = "2022"
     # Edit by yourself:
-    GithubRepo = "https://github.com/sulin-liu/sulin-liu.github.io"
+    GithubRepo = "https://github.com/liusulin/liusulin.github.io"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/sulin-liu/sulin-liu.github.io/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/liusulin/liusulin.github.io/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
