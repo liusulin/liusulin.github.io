@@ -455,6 +455,22 @@ hr {
 
 @media only screen and (max-width: 600px) {
 
+  .content {
+    margin: 60px auto auto auto;
+    padding: 0 15px;
+    font-size: 18px;
+    line-height: 1.7;
+  }
+
+  ul,
+  ol {
+    margin: 0 0 12px;
+  }
+  ul li,
+  ol li {
+    font-size: 18px;
+  }
+
   body {
     font-size: 16px;
   }

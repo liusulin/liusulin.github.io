@@ -9,7 +9,7 @@ type :
 Probabilistic machine learning methods are powerful tools for modeling phenomena in science and engineering problems, which opens up interesting ways to guide discovery and exploration.
 However, it remains very challenging to do inference with these probabilistic models in a scalable yet accurate way. In general there is a trade-off, in order to achieve better scalability, one needs to resort to a simplified model and compromise expressiveness and accuracy. 
 
-I am developing methods that greatly improve the scalability of probabilistic models without model simplification, via developing neural model to **amortize** the computationally expensive procedure in probabilistic inference.
+I am developing methods that greatly improve the scalability of probabilistic models without model simplification, via developing neural model to ***amortize*** the computationally expensive procedure in probabilistic inference.
 
 <p align="center">
 <img src="/media/ahgp.png" width="700">
