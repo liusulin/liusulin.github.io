@@ -1,6 +1,6 @@
 baseURL = "https://liusulin.github.io/"
 languageCode = "en-us"
-title = "Sulin Liu's Personal Website"
+title = "Sulin Liu, Princeton University"
 theme = "hugo-ht"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
@@ -17,38 +17,34 @@ posts = "/posts/:year/:month/:day/:slug/"
     name = "Home"
     url = "/"
     weight = 1
-# [[menu.en]]
-#     name = "Experiences"
-#     url = "/en/experiences/"
-#     weight = 2
 [[menu.en]]
     name = "Publications"
     url = "/en/publications/"
-    weight = 3
+    weight = 2
 # [[menu.en]]
 #     name = "Posts"
 #     url = "/en/posts/"
 #     weight = 3
 # [[menu.en]]
 #     name = "中文"
-#     url = "/cn/"
-#     weight = 4
+#     url = "/cn/posts/"
+#     weight = 3
 # [[menu.cn]]
 #     name = "关于"
 #     url = "/cn/about/"
 #     weight = 1
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 1
-[[menu.cn]]
-    name = "日志"
-    url = "/cn/posts/"
-    weight = 2
-[[menu.cn]]
-    name = "English"
-    url = "/"
-    weight = 3
+# [[menu.cn]]
+#     name = "关于"
+#     url = "/cn/about/"
+#     weight = 1
+# [[menu.cn]]
+#     name = "日志"
+#     url = "/cn/posts/"
+#     weight = 2
+# [[menu.cn]]
+#     name = "English"
+#     url = "/"
+#     weight = 3
 
 [params]
     description = "Peronal website of Sulin Liu"

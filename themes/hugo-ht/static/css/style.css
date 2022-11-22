@@ -126,8 +126,8 @@ div.splitbox div.right {
 
 .nav-logo {
   float: left;
-  margin-top: -3px;
-  margin-right: -5px;
+  margin-top: 1px;
+  margin-right: -2px;
 }
 
 .nav-logo img {
@@ -140,7 +140,7 @@ div.splitbox div.right {
 .nav-links {
   margin: 0;
   padding: 0;
-  font-size: 20px;
+  font-size: 24px;
   list-style: none;
 }
 
@@ -150,7 +150,7 @@ div.splitbox div.right {
 }
 
 .nav-links li:first-child {
-  font-size: 25px;
+  font-size: 29px;
   margin-right: 0;
   float: left;
 }
@@ -171,7 +171,7 @@ Customize as you prefer*/
   max-width: 750px; 
   margin: 60px auto auto auto;
   padding: 0 15px;
-  font-size: 19px;
+  font-size: 22px;
   line-height: 1.7;
 }
 
@@ -343,26 +343,26 @@ h6 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 38px;
   font-weight: normal;
   text-align: center;
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 36px;
   font-weight: normal;
   text-align: left;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 30px;
   font-weight: normal;
 }
 
 h4,
 h5,
 h6 {
-  font-size: 20px;
+  font-size: 26px;
   color: grey;
 }
 
@@ -372,7 +372,7 @@ ol {
 }
 ul li,
 ol li {
-  font-size: 19px;
+  font-size: 22px;
 }
 
 /*p {
@@ -460,15 +460,15 @@ hr {
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 34px;
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 34px;
   }
 
   h3, h4, h5, h6 {
-    font-size: 16px;
+    font-size: 26px;
   }
 
   pre, code {
