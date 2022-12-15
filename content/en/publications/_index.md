@@ -5,7 +5,7 @@ type :
 
 # Publications
 
-**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900)\
+**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Video](https://neurips.cc/virtual/2022/workshop/49994)\
 <ins>Sulin Liu</ins>* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy. *Under review*, 2022. 
 
 **ProBF : Probabilistic Safety Certificates with Barrier Functions**. [Paper](https://arxiv.org/abs/2112.12210) | [Code](https://github.com/athindran/ProBF)\

@@ -40,7 +40,7 @@ Developing and analyzing scalable optimization methods for machine learning prob
 
 **Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Video](https://neurips.cc/virtual/2022/workshop/49994)\
 <ins>Sulin Liu</ins>\* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
-*Under submission*, 2022.\
+*Under review*, 2022.\
 short version at at *NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems*. (Contributed talk, top five selected)
 
 
