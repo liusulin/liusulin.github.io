@@ -9,6 +9,7 @@ title: Home
 <a href="https://github.com/liusulin" style="border:none; position:relative; top:3px; left: 15px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/github.svg" width="25" height="25"></a>         <a href="https://twitter.com/su_lin_liu" style="border:none; position:relative; top:3px; left:20px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/twitter.svg" width="25" height="25"></a>        <a href="https://www.linkedin.com/in/sulin-liu" style="border:none; position:relative; top:3px; left:25px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg" width="25" height="25"></a>                                                                                                          <a href="https://scholar.google.com/citations?user=s3NlgA4AAAAJ&hl=en" style="border:none; position:relative; left:24px; top:5px;" target="_blank"> <img src="/media/icons/google-scholar.svg" width="30" height="30"></a>                        <a href="/files/cv_sulin.pdf" style="border:none; position:relative; left: 24px; top:-0.9px;"><span style="font-size:1.37em;"> CV </span></a>                                                                                                        <a href="mailto:sulinl@princeton.edu" style="border:none; position:relative; left:28px;top:3px;" target="_blank"> <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" width="25" height="25"></a> 
 
 I am a PhD student at [Princeton University](https://www.princeton.edu/) working on machine learning, advised by [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) and [Peter J. Ramadge](https://ee.princeton.edu/people/peter-j-ramadge/). My research focuses on developing deep-learning-enabled probabilistic inference and generative modeling, as well as using them to guide exploration and discovery of knowledge in science and engineering.\
+
 **I am on the 2022-2023 job market for academic and research positions. If you know positions that might be a good fit, please reach out!**
 
 Previously, I worked with [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/) on distrbuted (federated) multi-task learning at [Nanyang Technological University in Singapore](https://www.ntu.edu.sg/). Before that, I did my undergraduate in Electrical Engineering at [National University of Singapore](https://nus.edu.sg/).
@@ -37,7 +38,7 @@ Developing and analyzing scalable optimization methods for machine learning prob
 
 ## Selected Publications
 
-**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900)\
+**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Video](https://neurips.cc/virtual/2022/workshop/49994)\
 <ins>Sulin Liu</ins>\* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
 *Under submission*, 2022.\
 short version at at *NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems*. (Contributed talk, top five selected)
