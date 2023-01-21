@@ -24,7 +24,8 @@ Data-driven exploration and discovery in science and engineering are challenging
 #### Related Publications
 
 [1] **Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900)\
-<ins>Sulin Liu</ins>* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy. *Under submission*, 2022. 
+<ins>Sulin Liu</ins>* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
+*International Conference on Artificial Intelligence and Statistics* (AISTATS), 2023.
 
 [2] **ProBF : Probabilistic Safety Certificates with Barrier Functions**. [Paper](https://arxiv.org/abs/2112.12210) | [Code](https://github.com/athindran/ProBF)\
 Athindran Ramesh Kumar*, <ins>Sulin Liu</ins>* (equal contr., random order), Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge.

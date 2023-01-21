@@ -5,7 +5,7 @@ date: '2022-11-21'
 ---
 ## Scalable optimization for ML
 
-I have developed methods that scale up multi-task learning under the  distributed/federated setting [3]. Also, I have worked on developoing and analyzing theoretical properties of gradient-based optimization algorithms for multi-task learning [4], distributed optimization [2], and matrix factorization [1]. 
+I have developed methods that scale up optimization in multi-task learning under the  distributed/federated setting [3]. Also, I have worked on developoing and analyzing theoretical properties of gradient-based optimization algorithms for multi-task learning [4], distributed optimization [2], and matrix factorization [1]. 
 
 #### Related Publications
 
