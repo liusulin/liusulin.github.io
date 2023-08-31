@@ -2,7 +2,7 @@
 title: Home
 ---
 <p align="center">
-<img src="/media/sulin_avatar.jpeg" width="450">
+<img src="/media/sulin_avatar.jpeg" width="350">
 </p>
 
 <span style="font-size:2.3em;"> Hi! I'm Sulin. </span>
