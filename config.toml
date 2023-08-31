@@ -1,6 +1,6 @@
 baseURL = "https://liusulin.github.io/"
 languageCode = "en-us"
-title = "Sulin Liu, MIT"
+title = "Sulin Liu"
 theme = "hugo-ht"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 footnotereturnlinkcontents = "↩"
@@ -55,7 +55,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "/media/mit_logo.png"
+    favicon = "/media/mit_favicon.ico"
     # Edit by yourself:
     GithubEdit = "https://github.com/liusulin/liusulin.github.io/edit/master/content/"
     copyright = "&copy;"
@@ -66,11 +66,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     ContentSource = "https://raw.githubusercontent.com/liusulin/liusulin.github.io/master/content/" 
 
 [params.logo]
-  # Change the logo picture as your prefer:
-  url = "/media/mit_logo.png" # you can change it
-  # adjust the ratio of the logo picture:
-  width = 100.0
-  height = 50.0
+  url = "/media/MIT-logo-red-gray.png" # you can change it
+  alt = "MIT logo"
 
 
 [params.lang]
