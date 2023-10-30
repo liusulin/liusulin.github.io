@@ -5,13 +5,13 @@ type :
 
 # Publications
 
-**Generative Marginalization Models**. [Paper]() | [Code]() | [Video](https://icml.cc/virtual/2023/29185)\
+**Generative Marginalization Models**. [Paper](https://arxiv.org/abs/2310.12920) | [Code](https://github.com/PrincetonLIPS/MaM) | [Video](https://icml.cc/virtual/2023/29185)\
 <ins>Sulin Liu</ins>, Peter J. Ramadge, Ryan P. Adams.\
 *Submitted*, 2023.\
 short version at *ICML Workshop on Workshop on Structured Probabilistic
 Inference & Generative Modeling*. (Contributed talk, 6/125)
 
-**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Video](https://slideslive.com/38996665/sparse-bayesian-optimization?ref=search-presentations-sparse+bayesian)\
+**Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Code](https://github.com/facebookresearch/SparseBO) | [Tutorial](https://ax.dev/tutorials/sebo.html) | [Video](https://slideslive.com/38996665/sparse-bayesian-optimization?ref=search-presentations-sparse+bayesian)\
 <ins>Sulin Liu</ins>* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
 *International Conference on Artificial Intelligence and Statistics* (AISTATS), 2023.
 
