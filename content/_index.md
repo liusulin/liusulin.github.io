@@ -5,8 +5,22 @@ title: Home
 <img src="/media/sulin_avatar.jpeg" width="350">
 </p>
 
-<span style="font-size:2.1em;"> Hi! I'm Sulin. </span>
-<a href="https://github.com/liusulin" style="border:none; position:relative; top:3px; left: 15px;" target="_blank"> <img src="/media/icons/github.svg" class="filter-light-blue" width="25" height="25"></a>         <a href="https://twitter.com/su_lin_liu" style="border:none; position:relative; top:3px; left:20px;" target="_blank"> <img src="/media/icons/twitter.svg" class="filter-light-blue" width="25" height="25"></a>        <a href="https://www.linkedin.com/in/sulin-liu" style="border:none; position:relative; top:3px; left:25px;" target="_blank"> <img src="/media/icons/linkedin.svg" class="filter-light-blue" width="25" height="25"></a>                <a href="https://scholar.google.com/citations?user=s3NlgA4AAAAJ&hl=en" style="border:none; position:relative; left:22px; top:5px;" target="_blank"> <img src="/media/icons/google-scholar.svg" class="filter-light-blue" width="30" height="30"></a>          <a href="mailto:sulinliu@mit.edu" style="border:none; position:relative; left:20px;top:3px; " target="_blank"> <img src="/media/icons/mail.svg" class="filter-light-blue" width="25" height="25"></a>   <a href="/files/cv_sulin.pdf" style="border:none; position:relative; left: 23px; top:-0.9px;"><span style="font-size:1.37em;color:#1664ab"> CV  </span></a>                      
+<style>
+  /* For desktop view */
+  .intro {
+    font-size: 1.8em;
+  }
+
+  /* For mobile view */
+  @media only screen and (max-width: 600px) {
+    .intro {
+      font-size: 1.5em; /* Adjust font size for mobile */
+    }
+  }
+</style>
+
+<span class="intro">Hi! I'm Sulin.</span>
+</span> <a href="https://github.com/liusulin" style="border:none; position:relative; top:3px; left: 15px;" target="_blank"> <img src="/media/icons/github.svg" class="filter-light-blue" width="25" height="25"></a>         <a href="https://twitter.com/su_lin_liu" style="border:none; position:relative; top:3px; left:20px;" target="_blank"> <img src="/media/icons/twitter.svg" class="filter-light-blue" width="25" height="25"></a>        <a href="https://www.linkedin.com/in/sulin-liu" style="border:none; position:relative; top:3px; left:25px;" target="_blank"> <img src="/media/icons/linkedin.svg" class="filter-light-blue" width="25" height="25"></a>                <a href="https://scholar.google.com/citations?user=s3NlgA4AAAAJ&hl=en" style="border:none; position:relative; left:22px; top:5px;" target="_blank"> <img src="/media/icons/google-scholar.svg" class="filter-light-blue" width="30" height="30"></a>          <a href="mailto:sulinliu@mit.edu" style="border:none; position:relative; left:20px;top:3px; " target="_blank"> <img src="/media/icons/mail.svg" class="filter-light-blue" width="25" height="25"></a>   <a href="/files/cv_sulin.pdf" style="border:none; position:relative; left: 23px; top:-0.9px;"><span style="font-size:1.37em;color:#1860c6"> CV  </span></a>                      
 
 I am a postdoctoral researcher at MIT working with [Rafael Gómez-Bombarelli](https://gomezbombarelli.mit.edu/). I also collaborate with [Tommi Jaakkola](https://people.csail.mit.edu/tommi/). I received my PhD from Princeton University in 2023, advised by [Ryan P. Adams](https://www.cs.princeton.edu/~rpa/) and [Peter J. Ramadge](https://ee.princeton.edu/people/peter-j-ramadge/). In summer 2021, I interned at Meta Research with [Ben Letham](http://lethalletham.com/) and [Eytan Bakshy](https://eytan.github.io/) in the [Adaptive Experimentation](https://research.facebook.com/teams/central-applied-science/) team. I did my undergrad at National University of Singapore and worked with [Sinno Jialin Pan](https://personal.ntu.edu.sg/sinnopan/) at Nanyang Technological University, Singapore.
 
