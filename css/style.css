@@ -168,7 +168,7 @@ div.splitbox div.right {
 /*The parameter of `max-width` below controls the width of the body text. 
 Customize as you prefer*/
 .content {
-  max-width: 750px; 
+  max-width: 900px; 
   margin: 60px auto auto auto;
   padding: 0 15px;
   font-size: 22px;
@@ -385,13 +385,15 @@ ol li {
 
 /*hyperlink texts styling*/
 .list-page a {
-  color: black;
+  color: #2f5ebd;
   text-decoration: none;
   padding-bottom: 2px;
-  border-bottom: 1px solid;
+  border-bottom: 1px;
 }
 
 .list-page a:hover {
+  color: #1e203b;
+  border-bottom: 1px solid;
 }
 
 .list-page sup a {
@@ -493,3 +495,6 @@ hr {
 }
 
 
+.filter-light-blue{
+  filter: invert(29%) sepia(16%) saturate(7006%) hue-rotate(205deg) brightness(97%) contrast(84%);
+}
