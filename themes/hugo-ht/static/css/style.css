@@ -498,3 +498,27 @@ hr {
 .filter-light-blue{
   filter: invert(29%) sepia(16%) saturate(7006%) hue-rotate(205deg) brightness(97%) contrast(84%);
 }
+
+.filter-black {
+  filter: invert(0%) brightness(0%);
+}
+
+/* Default color: black */
+.filter-black {
+  filter: brightness(0) saturate(100%) invert(33%) sepia(18%) saturate(395%) hue-rotate(167deg) brightness(97%) contrast(91%);
+  transition: filter 0.3s ease; /* Smooth transition effect */
+}
+
+/* Hover color: blue (#1860C6) */
+.filter-black:hover {
+  filter: brightness(0) saturate(100%) invert(23%) sepia(68%) saturate(2224%) hue-rotate(313deg) brightness(87%) contrast(85%);
+}
+
+.cv-link span {
+  color: #4f5b66; /* Default color: black */
+  transition: color 0.3s ease; /* Smooth transition effect */
+}
+
+.cv-link:hover span {
+  color: #c62e6a; /* Hover color: blue */
+}
