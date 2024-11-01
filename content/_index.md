@@ -30,7 +30,7 @@ My research interests are broadly in machine learning and its applications to pr
  - **Amortized Inference** [[Generative Marginal Inference](https://arxiv.org/abs/2310.12920), [Amortized Hyperparameter Inference](https://papers.nips.cc/paper/2020/hash/f52db9f7c0ae7017ee41f63c2a7353bc-Abstract.html)]
  - **Interpretability and Safety in Knowledge Discovery** [[SEBO: Sparse Bayesian Optimization](https://arxiv.org/abs/2203.01900), [ProBF: Probabilistic Safety Certificates](https://arxiv.org/abs/2112.12210)]
 
-My work often involves innovating synthetic data generation, designing complex multi-component AI systems, and the deriving scalable training objectives grounded in first principles.
+My work often involves innovating synthetic data generation, designing complex multi-component AI systems, and deriving scalable training objectives grounded in first principles.
 
 ## Representative Publications
 
