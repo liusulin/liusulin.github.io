@@ -2,7 +2,7 @@
 title: Home
 ---
 <p align="center">
-<img src="/media/sulin_avatar.jpeg" width="350">
+<img src="/media/sulin_avatar.jpg" width="350">
 </p>
 
 <style>
