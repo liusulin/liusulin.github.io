@@ -7,7 +7,7 @@ type :
 
 **Think While You Generate: Discrete Diffusion with Planned Denoising**. [Paper](https://arxiv.org/abs/2410.06264) | [Code](https://github.com/liusulin/DDPD)\
 <ins>Sulin Liu</ins>, Juno Nam, Andrew Campbell, Hannes Stärk, Yilun Xu, Tommi Jaakkola, Rafael Gómez-Bombarelli.\
-*Under submission*, 2024.
+*International Conference on Learning Representations* (ICLR), 2025.
 
 **Flow Matching for Accelerated Simulation of Atomic Transport in Materials**. [Paper](https://arxiv.org/abs/2410.01464)\
 Juno Nam, <ins>Sulin Liu</ins>, Gavin Winter, KyuJung Jun, Soojung Yang, Rafael Gómez-Bombarelli.\
@@ -19,7 +19,7 @@ short version at *ICML Workshop on Machine Learning for Life and Material Scienc
 <ins>Sulin Liu</ins>, Peter J. Ramadge, Ryan P. Adams.\
 *International Conference on Machine Learning* (ICML), 2024.\
 short version at *ICML Workshop on Structured Probabilistic
-Inference & Generative Modeling*. (<span style="color:#b03060">Contributed talk, 6/125</span>)
+Inference and Generative Modeling*. (<span style="color:#b03060">Contributed talk, 6/125</span>)
 
 **Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Code](https://github.com/facebookresearch/SparseBO) | [Tutorial](https://ax.dev/tutorials/sebo.html) | [Video](https://slideslive.com/38996665/sparse-bayesian-optimization?ref=search-presentations-sparse+bayesian)\
 <ins>Sulin Liu</ins>\* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
@@ -37,7 +37,7 @@ short version at *7th ICML Workshop on Automated Machine Learning*. (<span style
 
 **Think While You Generate: Discrete Diffusion with Planned Denoising**. [Paper](https://arxiv.org/abs/2410.06264) | [Code](https://github.com/liusulin/DDPD)\
 <ins>Sulin Liu</ins>, Juno Nam, Andrew Campbell, Hannes Stärk, Yilun Xu, Tommi Jaakkola, Rafael Gómez-Bombarelli.\
-*Under submission*, 2024.
+*International Conference on Learning Representations* (ICLR), 2025.
 
 
 **Flow Matching for Accelerated Simulation of Atomic Transport in Materials**. [Paper](https://arxiv.org/abs/2410.01464)\
@@ -68,12 +68,12 @@ short version at *NeurIPS Machine Learning and the Physical Sciences Workshop*, 
 <ins>Sulin Liu</ins>, Peter J. Ramadge, Ryan P. Adams.\
 *International Conference on Machine Learning* (ICML), 2024.\
 short version at *ICML Workshop on Structured Probabilistic
-Inference & Generative Modeling*. (<span style="color:#b03060">Contributed talk, 6/125</span>)
+Inference and Generative Modeling*. (<span style="color:#b03060">Contributed talk, 6/125</span>)
 
 **Sparse Bayesian Optimization**. [Paper](https://arxiv.org/abs/2203.01900) | [Code](https://github.com/facebookresearch/SparseBO) | [Tutorial](https://ax.dev/tutorials/sebo.html) | [Video](https://slideslive.com/38996665/sparse-bayesian-optimization?ref=search-presentations-sparse+bayesian)\
 <ins>Sulin Liu</ins>* (equal contr.), Qing Feng*, David Eriksson*, Benjamin Letham, Eytan Bakshy.\
 *International Conference on Artificial Intelligence and Statistics* (AISTATS), 2023.\
-short version at at *NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems*. (<span style="color:#b03060">Contributed talk, top five selected</span>)
+short version at at *NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling and Decision-making Systems*. (<span style="color:#b03060">Contributed talk, top five selected</span>)
 
 **ProBF : Probabilistic Safety Certificates with Barrier Functions**. [Paper](https://arxiv.org/abs/2112.12210) | [Code](https://github.com/athindran/ProBF)\
 Athindran Ramesh Kumar*, <ins>Sulin Liu</ins>* (equal contr., random order), Jaime F. Fisac, Ryan P. Adams, Peter J. Ramadge.
