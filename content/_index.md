@@ -37,11 +37,11 @@ My work centers on innovating in **synthetic data generation**, designing comple
 
 **Think While You Generate: Discrete Diffusion with Planned Denoising**. [Paper](https://arxiv.org/abs/2410.06264) | [Code](https://github.com/liusulin/DDPD)\
 <ins>Sulin Liu</ins>, Juno Nam, Andrew Campbell, Hannes Stärk, Yilun Xu, Tommi Jaakkola, Rafael Gómez-Bombarelli.\
-*Under submission*, 2024.
+*International Conference on Learning Representations* (ICLR), 2025.
 
 **Flow Matching for Accelerated Simulation of Atomic Transport in Materials**. [Paper](https://arxiv.org/abs/2410.01464)\
 Juno Nam, <ins>Sulin Liu</ins>, Gavin Winter, KyuJung Jun, Soojung Yang, Rafael Gómez-Bombarelli.\
-*Under submission*, 2024.\
+*Under submission*, 2025.\
 short version at *ICML Workshop on Machine Learning for Life and Material Science: From Theory to Industry applications*
 (<span style="color:#b03060">Best paper in Material Science track, 2/141</span>)
 
@@ -63,6 +63,7 @@ short version at at *NeurIPS Workshop on Gaussian Processes, Spatiotemporal Mode
 short version at *7th ICML Workshop on Automated Machine Learning*. (<span style="color:#b03060">Spotlight talk</span>)
 
 ## Recent News
+- 01/2025: DDPD accepted to ICLR 2025!
 - 10/2024: Gave a talk on DDPD at Google DeepMind Seminar Series on Generative Modeling, Sampling and Transport.
 - 10/2024: Preprint of DDPD is out on [arXiv](https://arxiv.org/abs/2410.06264). Check out the summary of the paper in this [thread](https://x.com/su_lin_liu/status/1846588886493094072)!
 - 05/2024: Generative Marginalization Models accepted to ICML 2024!
